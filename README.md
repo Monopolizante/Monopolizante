@@ -1,29 +1,22 @@
 # 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I+am+Robson+Laurentino!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Olá,+Mundo!+🌍;Eu+sou+o+Robson+Laurentino!;Movido+a+código+e+curiosidade+🚀)](https://git.io/typing-svg)
 
-### Junior Developer | Systems Development Student (SENAI) 🇧🇷
+### Estudante de Desenvolvimento de Sistemas (SENAI) | Futuro Dev Júnior 💻🇧🇷
 
-I am 17 years old and a developer in constant evolution, focused on building solid foundations in web and systems development. I am currently sharpening my logical and technical skills through practical projects and my course at SENAI.
-
----
-
-### 👨‍💻 About Me
-
-* 🎓 **Background:** Studying Systems Development at SENAI.
-* 🎯 **My Goal:** To grow professionally in the tech field, create impactful applications, and enter the job market as a Junior Developer.
-* 💡 **Current Focus:** Improving my skills in JavaScript, Front-end development, and version control with Git.
-* 🚀 **Looking For:** An internship or Junior Dev position where I can contribute, learn from experienced professionals, and keep evolving.
+Com 17 anos e muita vontade de aprender, sou um desenvolvedor apaixonado por resolver problemas e criar coisas do zero. Acredito que a tecnologia é a melhor ferramenta para impactar o mundo, e estou a construir a minha jornada linha de código a linha de código. 
 
 ---
 
-### 📊 GitHub Stats
+### 👨‍💻 Um pouco sobre mim
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monopolizante&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/Monopolizante)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monopolizante&layout=compact&theme=algolia)](https://github.com/Monopolizante)
+* 🎓 **Onde estou:** A estudar Desenvolvimento de Sistemas no SENAI (a construir as bases certas para o futuro!).
+* 🎯 **A minha missão:** Entrar no mercado de trabalho como Desenvolvedor Júnior, evoluir numa equipa fantástica e criar aplicações que façam a diferença.
+* 💡 **O que me tira o sono (no bom sentido):** Dominar JavaScript, arquitetura Front-end e aplicar boas práticas com Git/GitHub.
+* 🎬 **Fora do código:** Como podes ver pelo meu projeto `filmezinhos`, adoro cinema! E quando a criatividade falha, crio soluções para isso (dá uma vista de olhos no meu `Writers-Ladder-Project` 😉).
 
 ---
 
-### 🛠️ Technical Skills
+### 🧰 As Minhas Ferramentas
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
@@ -33,12 +26,25 @@ I am 17 years old and a developer in constant evolution, focused on building sol
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Projetos em Destaque
 
-| Project | Description | Focus |
+| Projeto | O que é? | Tecnologias |
 | --- | --- | --- |
-| **[Writers-Ladder-Project](https://github.com/Monopolizante/Writers-Ladder-Project)** | A project that uses the WordsAPI to provide word suggestions for writers experiencing creative block. | `EJS` `API` `JS` |
-| **[prog-apps-SENAI](https://github.com/Monopolizante/prog-apps-SENAI)** | Programs and applications created during the second phase of the Systems Development course at SENAI. | `JavaScript` `Logic` |
-| **[filmezinhos](https://github.com/Monopolizante/filmezinhos)** | A project focused on interface and visual structuring centered around movies. | `CSS` `HTML` |
+| **[Writers-Ladder-Project](https://github.com/Monopolizante/Writers-Ladder-Project)** | Desenvolvido para salvar escritores do bloqueio criativo! Usa a WordsAPI para sugerir palavras e ideias. | `EJS` `API` `JS` |
+| **[prog-apps-SENAI](https://github.com/Monopolizante/prog-apps-SENAI)** | O meu laboratório de testes: programas e aplicações criados durante a 2ª fase do meu curso no SENAI. | `JavaScript` `Lógica` |
+| **[filmezinhos](https://github.com/Monopolizante/filmezinhos)** | Uma interface focada em filmes. Porque nem só de código vive um dev, não é verdade? | `CSS` `HTML` |
 
-> 💡 *Note: Click on the project
+> 💡 *Dica: Clica nos nomes dos projetos para explorares os repositórios!*
+
+---
+
+### 📊 O meu percurso no GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Monopolizante&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/Monopolizante)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Monopolizante&layout=compact&theme=algolia)](https://github.com/Monopolizante)
+
+---
+
+### 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TEU_LINKEDIN_AQUI/)
