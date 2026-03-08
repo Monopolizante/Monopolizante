@@ -1,5 +1,3 @@
-# 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Olá,+Mundo!+🌍;Eu+sou+o+Robson+Laurentino!;Movido+a+código+e+curiosidade+🚀)](https://git.io/typing-svg)
 
 ### Estudante de Desenvolvimento de Sistemas (SENAI) | Futuro Dev Júnior 💻🇧🇷
 
